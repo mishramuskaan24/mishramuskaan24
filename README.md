@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muskaan Mishra</h1>
+<h1 align="center">Hola👋, I'm Muskaan Mishra</h1>
 <h3 align="center">Just an ordinary girl with an extraordinary dream !!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishramuskaan24&label=Profile%20views&color=0e75b6&style=flat" alt="mishramuskaan24" /> </p>
 
-
+- I'm currently pursuing B.Tech in Information Technology
 - 🌱 I’m currently learning **Web Development**
 - 📫 How to reach me **mishramuskaan2401@gmail.com**
 - ⚡ Fun fact **I know it's crazy but I love to eat XD**
