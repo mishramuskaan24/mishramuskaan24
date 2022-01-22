@@ -1,4 +1,3 @@
-<p align="center"><img src="https://media2.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif?cid=ecf05e47p3fob9u9kv4io80kjmckvwdq34nfidwy6ht5j952&rid=giphy.gif&ct=g"></p>
 <h1 align="center">Hi 👋, I'm Muskaan Mishra</h1>
 <h3 align="center">A girl trying to follow her dreams !!!</h3>
 
