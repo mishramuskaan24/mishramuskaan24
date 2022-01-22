@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muskaan Mishra</h1>
-<h3 align="center">A girl trying to follow her dreams !!!</h3>
+<h3 align="center">Just an ordinary girl with an extraordinary dream !!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
