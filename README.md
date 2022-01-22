@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishramuskaan24&label=Profile%20views&color=0e75b6&style=flat" alt="mishramuskaan24" /> </p>
 
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **Web Development**
 - 📫 How to reach me **mishramuskaan2401@gmail.com**
-- ⚡ Fun fact **I think I can bake the best cookies**
+- ⚡ Fun fact **I know it's crazy but I love to eat XD**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/muskaan58938170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muskaan58938170" height="30" width="40" /></a>
