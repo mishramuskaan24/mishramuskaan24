@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishramuskaan24&label=Profile%20views&color=0e75b6&style=flat" alt="mishramuskaan24" /> </p>
 
 - I'm currently pursuing B.Tech in Information Technology
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development and Machine Learning**
 - 📫 How to reach me **mishramuskaan2401@gmail.com**
 - ⚡ Fun fact **I know it's crazy but I love to eat XD**
 <h3 align="left">Connect with me:</h3>
