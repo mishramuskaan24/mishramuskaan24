@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishramuskaan24&label=Profile%20views&color=0e75b6&style=flat" alt="mishramuskaan24" /> </p>
 
-- I'm currently pursuing **B.Tech** in **Information Technology**
+- I'm currently pursuing **B.Tech** in **Information Technology(2020-2024)**
 - 🌱 I’m currently learning **Web Development and DSA in C++**
 - ⚡ I am an active member of various **Tech communities and Open Source programs.**
 - 📫 How to reach me **mishramuskaan2401@gmail.com**
