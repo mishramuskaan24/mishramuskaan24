@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/Muskaan58938170" target="blank"><img src="https://img.shields.io/twitter/follow/Muskaan58938170?logo=twitter&style=for-the-badge" alt="Muskaan58938170" /></a> </p>
 
 - Pursuing **B.Tech** in **Information Technology(2020-2024)**✍️
-- 🌱 Learning **Web Development and DSA in C++ 📚👩🏻‍🎓**
+- 🌱 Currently Learning **Web Development and DSA in C++ 📚👩🏻‍🎓**
 - ⚡ I am an active member of various **Tech communities and Open Source programs. 🔍👩‍🚀**
 - 📫 You can reach me out at👉**mishramuskaan2401@gmail.com**
 - ⚡ P.S.**I love to bake yummy cakes and cookies👻😋**
