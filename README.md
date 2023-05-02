@@ -9,8 +9,8 @@
 <p align="left"> <a href="https://twitter.com/Muskaan58938170" target="blank"><img src="https://img.shields.io/twitter/follow/Muskaan58938170?logo=twitter&style=for-the-badge" alt="Muskaan58938170" /></a> </p>
 
 - Pursuing **B.Tech** in **Information Technology(2020-2024)**✍️
-- 🌱 Currently Learning **Web Development and DSA in C++ 📚👩🏻‍🎓**
-- ⚡ I am an active member of various **Tech communities and Open Source programs. 🔍👩‍🚀**
+- 🌱 Currently Learning **Machine Learning and Data Analytics 📚👩🏻‍🎓**
+- ⚡ I am an active member and ambassador of various tech communities like **MLSA and GDSC. 🔍👩‍🚀**
 - 📫 You can reach me out at👉**mishramuskaan2401@gmail.com**
 - ⚡ P.S.**I love to bake yummy cakes and cookies👻😋**
 <h3 align="left">To know me further,let's get connected ☺️👇</h3>
