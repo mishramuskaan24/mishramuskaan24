@@ -1,5 +1,5 @@
 ![](https://github.com/mishramuskaan24/mishramuskaan24/blob/main/github%20banner.png)
-<h1 align="center">Hola👋, I'm Muskaan Mishra</h1>
+<h1 align="center">Hola👋, I'm Muskaan Mishra🦋</h1>
 <h3 align="center">Just an ordinary girl with an extraordinary dream !!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
