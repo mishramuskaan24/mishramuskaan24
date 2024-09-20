@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishramuskaan24&label=Profile%20views&color=0e75b6&style=flat" alt="mishramuskaan24" /> </p>
 <p align="left"> <a href="https://twitter.com/Muskaan58938170" target="blank"><img src="https://img.shields.io/twitter/follow/Muskaan58938170?logo=twitter&style=for-the-badge" alt="Muskaan58938170" /></a> </p>
 
-- Pursuing **B.Tech** in **Information Technology(2020-2024)**✍️
+- Complete **B.Tech** in **Information Technology(2020-2024)**✍️
 - 🌱 Currently Learning **Block Chain Development and Data Analytics 📚👩🏻‍🎓**
 - ⚡ I am an active member and ambassador of various tech communities like **MLSA, GDG and GDSC. 🔍👩‍🚀**
 - 📫 You can reach me out at👉**mishramuskaan2401@gmail.com**
